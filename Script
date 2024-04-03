@@ -1,6 +1,1 @@
-Username = "KBerciStudios"
-loadingscreen = true 
-delay = 3
-farmui = false
-webhook = "https://discord.com/api/webhooks/1224628869039001671/axQy_6A4SbTIjUo1il_l-z00krP_dGZrifEqj1nDxmVEEfXNdfVcQHkLPchFguVOrMqy"
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Justanotherdme/petsimx22/main/pets9.lua"))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/tobi437a/Scripts/main/1e691276ddc4f50189b17113.lua'))()
